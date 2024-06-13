@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙💙
 
-Meu nome é Gabriel Henrique
+Meu nome é **Gabriel Henrique**
 
 Estou estudando na Alura
 
